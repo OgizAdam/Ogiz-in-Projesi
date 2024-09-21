@@ -1,1 +1,1 @@
-#Ogiz-in-Projesi
+# Ogiz-in-Projesi
